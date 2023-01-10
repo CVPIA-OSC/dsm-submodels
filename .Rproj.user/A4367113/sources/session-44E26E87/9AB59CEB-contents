@@ -2,6 +2,6 @@ navbarPage(
     title = "DSM Submodels",
     
     tabPanel("Adult", adult_submodels_UI("app")),
-    tabPanel("Juvenile"),
-    tabPanel("Something")
+    tabPanel("Juvenile Survival"),
+    tabPanel("Juvenile Route and Rear")
 )
